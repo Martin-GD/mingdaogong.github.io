@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "**Mingdao** Gong"
+title                    : "Mingdao Gong"
 title_separator          : "-"
 name                     : &name "Mingdao Gong"
 description              : &description "personal description"
@@ -65,6 +65,7 @@ author:
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
+  redbook          : 鳄霸
   soundcloud       : # Username
   steam            : # Username
   telegram         : # URL
@@ -74,7 +75,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : SUSTech_EBA
+  youtube          : # 
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
